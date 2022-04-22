@@ -1,0 +1,2 @@
+sauvegarder le nom du jeu gratuit du moment et voir si il a changer depuis la derniere fois
+et ci c'est le cas recuperer le jeu gratuit meme si en vrai ca va etre compliquer a cause de l'histoire du log in
